@@ -1,0 +1,4 @@
+USER (1) ------ (1) PROFILE
+USER (1) ------< TWEET
+USER >------< USER  (FOLLOW)
+USER >------< TWEET (LIKE)
